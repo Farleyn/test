@@ -1,0 +1,5 @@
+Sinu nimi: 
+Täna kuupäev:
+Mis on Excel?:
+Mis on Github?:
+Kui palju Exceli funktsioone sa tead?:
